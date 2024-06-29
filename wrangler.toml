@@ -4,10 +4,10 @@ workers_dev = false
 main = "src/index.ts"
 
 kv_namespaces = [
-  { binding = "URL_MAPPINGS", id = "" },
-  { binding = "URL_ANALYTICS", id = "" },
-  { binding = "API_KEYS", id = "" },
-  { binding = "OG_METADATA_CACHE", id = "" }
+  { binding = "URL_MAPPINGS", id = "3ace05f2a9474b9090dd68d8a35c3597" },
+  { binding = "URL_ANALYTICS", id = "60215ddbff6f42e4a33375bb1109a2b7" },
+  { binding = "API_KEYS", id = "329889d1e0c74a6ca596662e2f52a312" },
+  { binding = "OG_METADATA_CACHE", id = "c900ebf80a9a4a3a894aaf04b38e800b" }
 ]
 
 [vars]
